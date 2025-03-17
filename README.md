@@ -11,7 +11,4 @@ This project involved forensic analysis of a 1GB USB thumb drive to uncover evid
   4. Uncovered hidden messages through file extraction, adding value to forensic evidence and assisting in locating the suspect's hideout.
   5. Enhanced knowledge in forensic image processing and the practical application of digital forensic tools in criminal investigations.
 
-https://raw.githubusercontent.com/JonSecOps/Forensic-Image-Carving-and-Metadata-Project/main/Forensic%20Image%20Carving%20and%20Metadata%20Project.pdf
-
-
 https://github.com/JonSecOps/Forensic-Image-Carving-and-Metadata-Project/blob/main/Forensic%20Image%20Carving%20and%20Metadata%20Project.pdf
